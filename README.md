@@ -10,6 +10,9 @@ BREVE DESCRIPCIÓN:
 En esta práctica he consumido una API de Rick & Morty con React.Js. Contiene una serie de tarjetas con los diferentes personajes de la serie + su info. Al mismo tiempo, la web contiene una paginación con la que puedes ir hacia delante o hacia atrás. He utilizado clases de bootstrap para todo el diseño (las cards, botones, header...) y he organizado el código en base a componentes y hooks. 
 
 ---
+PARA PODER ABRIR EL PROYECTO:
+- Necesitas instalar los scripts de React. Para ello introduce el siguiente comando en tu terminal, de lo contrario no dejará abrirlo al ejecutar npm start: npm install react-scripts
+---
 EL LINK DEL TUTORIAL QUE HE SEGUIDO ES EL SIGUIENTE: 
 -
 - https://www.youtube.com/watch?v=BTJtTkoyprc
