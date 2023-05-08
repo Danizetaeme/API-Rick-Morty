@@ -11,8 +11,8 @@ En esta práctica he consumido una API de Rick & Morty con React.Js. Contiene un
 
 ---
 PARA PODER ABRIR EL PROYECTO:
-- Necesitas instalar los scripts de React. Para ello introduce el siguiente comando en tu terminal, de lo contrario no dejará abrirlo al ejecutar npm start: 
-- npm install react-scripts
+Necesitas instalar los scripts de React. Para ello introduce el siguiente comando en tu terminal, de lo contrario no dejará abrirlo al ejecutar "npm start": 
+- Comando: npm install react-scripts
 ---
 EL LINK DEL TUTORIAL QUE HE SEGUIDO ES EL SIGUIENTE: 
 -
