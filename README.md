@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+![](src/logo.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NOMBRE DEL PROYECTO:
+-
+Práctica de consumo de APIS con React.Js
 
-## Available Scripts
+---
+BREVE DESCRIPCIÓN: 
+-
+En esta práctica he consumido una API de Rick & Morty con React.Js. Contiene una serie de tarjetas con los diferentes personajes de la serie + su info. Al mismo tiempo, la web contiene una paginación con la que puedes ir hacia delante o hacia atrás. He utilizado clases de bootstrap para todo el diseño (las cards, botones, header...) y he organizado el código en base a componentes y hooks. 
 
-In the project directory, you can run:
+---
+EL LINK DEL TUTORIAL QUE HE SEGUIDO ES EL SIGUIENTE: 
+-
+- https://www.youtube.com/watch?v=BTJtTkoyprc
 
-### `npm start`
+---
+LINK DE LA API (PÚBLICA):
+-
+- https://rickandmortyapi.com/  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+TECNOLOGÍAS Y FRAMEWORKS QUE HE UTILIZADO
+-
+- React.Js
+- Bootstrap
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+¿CÓMO HE CREADO MI PROYECTO DE REACT?:
+-
+1: Instalar Node.JS (En su página oficial, la versión LTS)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2: Una vez instalado, vamos a la consola y vamos a la ruta donde queramos crear el proyecto. Ej: cd Desktop
 
-### `npm run build`
+3: Ahora creo el proyecto. Para ello hay que introducir el siguiente comando .npx create-react-app NombreDelProyecto. Ej: npx create-react-app Proyecto1.
+Damos enter y el proyecto se debe estar creando. Esperamos un momento hasta que se termine de crear
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4: Una vez instalado, entramos a esta carpeta. Para ello usaremos cd NombreDelProyecto. Ej: cd Proyecto1
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5: Ahora que ya estamos dentro de esta carpeta, ejecutamos el comando "code ." para abrir nuestro proyecto en el Visual Studio Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+6: Ahora ya deberíamos estar con el VSC abierto con nuestro proyecto base de React. Bien, ahora abrimos la terminal de nuestro VSC y ejecutamos el siguiente comando "npm start".
+Al ejecutarlo, se nos abrirá un LocalHost:3000 que es donde se reflejaran todos los cambios que realice en mi código. 
 
-### `npm run eject`
+IMPORTANTE: A partir de ahora, nuestros cambios no se verán en LiveServer, sino en el local host que acabamos de abrir.
+-
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+EXTENSIONES DE GOOGLE QUE HE INSTALADO PARA FACILITAR EL TRABAJO:
+-
+* Json Viewer
+* React Developer Tools
+---
+¿CÓMO SE VE LA WEB?
+-
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](src/Captura.PNG)
